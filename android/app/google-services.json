@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "519329517957",
+    "firebase_url": "https://winks-5144c.firebaseio.com",
+    "project_id": "winks-5144c",
+    "storage_bucket": "winks-5144c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519329517957:android:469aa4da4491b2b6",
+        "android_client_info": {
+          "package_name": "com.streamertail.sixwinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519329517957-6ddal8l956kt8opkn4k95mid67dnqv30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0SjObhK_HVHr11G7hxxeP6Zx6rQb8nw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

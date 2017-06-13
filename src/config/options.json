@@ -1,0 +1,13 @@
+{
+    "api" : {
+        "base" : "http://api.sixwinks.com"
+        // "base" : "http://localhost:8080"
+    },
+    "firebase" : {
+        "apiKey": "AIzaSyA5QzIFFn8MKVDK7bhnkxhFfHocCmK_DEE",
+        "authDomain": "winks-5144c.firebaseapp.com",
+        "databaseURL": "https://winks-5144c.firebaseio.com",
+        "storageBucket": "winks-5144c.appspot.com",
+        "messagingSenderId": "519329517957"
+    }
+}

@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Bold
+WritingScript:Roman
+OutlineFileName:\Montserrat-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:45968
+FileModTime:1437147102
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+MenuName:Montserrat
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Montserrat
+WritingScript:Roman
+OutlineFileName:\Montserrat-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:45360
+FileModTime:1437147102
+NameArray:0,Mac,4,Montserrat
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-UltraLight
+FamilyName:Montserrat
+StyleName:Ultra Light
+MenuName:Montserrat Ultra Light
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Ultra Light
+WritingScript:Roman
+OutlineFileName:\Montserrat-UltraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:68300
+FileModTime:1433845624
+NameArray:0,Mac,4,Montserrat Ultra Light
+NameArray:0,Win,1,Montserrat Ultra Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
